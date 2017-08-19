@@ -12,7 +12,7 @@ flag = 0
 date_format = "%Y/%m/%d"
 today = datetime.date.today()
 dd = 7
-
+#dd = int(sys.argv[1])
 
 file1 = open("deleted_servers","w")
 file2 = open("created_servers","w")
