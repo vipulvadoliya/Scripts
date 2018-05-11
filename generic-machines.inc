@@ -1,5 +1,3 @@
-sjc-enginstwin-01 IN A 10.57.201.181
-sjcindsb01vmw24 IN A 10.57.201.133
 sjcindsb01vmw01 IN A 10.57.201.253
 sfo-engosx-01 IN A 10.59.204.41
 sjcindsb01vmw02 IN A 10.57.201.236
@@ -110,11 +108,7 @@ sjcshain01vmw139 IN A 10.57.202.85
 sjcshain01vmw140 IN A 10.57.202.86
 sjcshain01vmw150 IN A 10.57.202.138
 sjcshain01vmw153 IN A 10.57.202.141
-sjcshain01vmw154 IN A 10.57.202.142
-sjcshain01vmw156 IN A 10.57.202.144
-sjcshain01vmw159 IN A 10.57.202.147
-
-
+vipulcshain01vmw153 IN A 10.11.11.11
 sjcinf6801vmw02 IN A 10.57.202.151
 sjcinf6801vmw03 IN A 10.57.202.152
 sjcinf6801vmw04 IN A 10.57.202.153
